@@ -1,0 +1,20 @@
+C:\Users\RaySky\Documents\SEMESTER GANJIL\TheNextCar\The Next Car\bin\Debug\netcoreapp3.1\The Next Car.exe
+C:\Users\RaySky\Documents\SEMESTER GANJIL\TheNextCar\The Next Car\bin\Debug\netcoreapp3.1\The Next Car.deps.json
+C:\Users\RaySky\Documents\SEMESTER GANJIL\TheNextCar\The Next Car\bin\Debug\netcoreapp3.1\The Next Car.runtimeconfig.json
+C:\Users\RaySky\Documents\SEMESTER GANJIL\TheNextCar\The Next Car\bin\Debug\netcoreapp3.1\The Next Car.runtimeconfig.dev.json
+C:\Users\RaySky\Documents\SEMESTER GANJIL\TheNextCar\The Next Car\bin\Debug\netcoreapp3.1\The Next Car.dll
+C:\Users\RaySky\Documents\SEMESTER GANJIL\TheNextCar\The Next Car\bin\Debug\netcoreapp3.1\The Next Car.pdb
+C:\Users\RaySky\Documents\SEMESTER GANJIL\TheNextCar\The Next Car\obj\Debug\netcoreapp3.1\The Next Car.csproj.AssemblyReference.cache
+C:\Users\RaySky\Documents\SEMESTER GANJIL\TheNextCar\The Next Car\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\RaySky\Documents\SEMESTER GANJIL\TheNextCar\The Next Car\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\RaySky\Documents\SEMESTER GANJIL\TheNextCar\The Next Car\obj\Debug\netcoreapp3.1\The Next Car_MarkupCompile.cache
+C:\Users\RaySky\Documents\SEMESTER GANJIL\TheNextCar\The Next Car\obj\Debug\netcoreapp3.1\The Next Car_MarkupCompile.lref
+C:\Users\RaySky\Documents\SEMESTER GANJIL\TheNextCar\The Next Car\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\RaySky\Documents\SEMESTER GANJIL\TheNextCar\The Next Car\obj\Debug\netcoreapp3.1\The Next Car.g.resources
+C:\Users\RaySky\Documents\SEMESTER GANJIL\TheNextCar\The Next Car\obj\Debug\netcoreapp3.1\The Next Car.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RaySky\Documents\SEMESTER GANJIL\TheNextCar\The Next Car\obj\Debug\netcoreapp3.1\The Next Car.AssemblyInfoInputs.cache
+C:\Users\RaySky\Documents\SEMESTER GANJIL\TheNextCar\The Next Car\obj\Debug\netcoreapp3.1\The Next Car.AssemblyInfo.cs
+C:\Users\RaySky\Documents\SEMESTER GANJIL\TheNextCar\The Next Car\obj\Debug\netcoreapp3.1\The Next Car.csproj.CoreCompileInputs.cache
+C:\Users\RaySky\Documents\SEMESTER GANJIL\TheNextCar\The Next Car\obj\Debug\netcoreapp3.1\The Next Car.dll
+C:\Users\RaySky\Documents\SEMESTER GANJIL\TheNextCar\The Next Car\obj\Debug\netcoreapp3.1\The Next Car.pdb
+C:\Users\RaySky\Documents\SEMESTER GANJIL\TheNextCar\The Next Car\obj\Debug\netcoreapp3.1\The Next Car.genruntimeconfig.cache
